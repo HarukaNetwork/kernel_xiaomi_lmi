@@ -1,2 +1,4 @@
 source "techpack/data-kernel/perf/Kconfig"
 source "techpack/data-kernel/shs/Kconfig"
+
+source "techpack/audio/Kconfig"
