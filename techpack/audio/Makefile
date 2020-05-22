@@ -46,6 +46,5 @@ endif
 
 obj-y += soc/
 obj-y += dsp/
-obj-y += dsp/elliptic
 obj-y += ipc/
 obj-y += asoc/
