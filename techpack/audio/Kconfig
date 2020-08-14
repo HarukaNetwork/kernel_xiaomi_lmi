@@ -76,3 +76,5 @@ config SND_SOC_CS35L41
         tristate "SND_SOC_CS35L41"
 config MSM_CSPL
         tristate "MSM_CSPL"
+config DIGITAL_CDC_RSC_MGR
+        tristate "DIGITAL_CDC_RSC_MGR"
